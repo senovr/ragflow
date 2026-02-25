@@ -97,7 +97,7 @@
     "sonner": "^1.7.1",
     "tailwind-merge": "^2.5.4",
     "tailwindcss-animate": "^1.0.7",
-    "umi": "^4.0.90",
+    "umi": "^4.4.6",
     "umi-request": "^1.4.0",
     "unist-util-visit-parents": "^6.0.1",
     "uuid": "^9.0.1",
